@@ -3,3 +3,9 @@ add text in branch f1
 add second line to f1 branch f2
 
 add line from github
+
+
+add second line to f1 branch f2
+
+conflict
+add line "conflict"
