@@ -1,1 +1,4 @@
+
 add line for conflict
+pull-conflict
+add "pull-conflict" from hub
