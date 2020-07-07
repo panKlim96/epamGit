@@ -1,1 +1,3 @@
 its belong to feature2
+
+line for merge-conflict
