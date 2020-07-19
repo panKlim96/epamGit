@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 add line from gitHub
 line for pull with conflict
 
-line for cherry-pick
+delete "line for cherry-pick"
