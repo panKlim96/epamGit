@@ -1,1 +1,6 @@
-delete all lines
+add line from gitHub
+line for pull with conflict
+
+delete "line for cherry-pick"
+
+i did some work
